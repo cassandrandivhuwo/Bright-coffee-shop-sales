@@ -13,13 +13,13 @@ In order to achieve the aim, the following objectives must be met:
 - Use Miro for project planning (including data inspection and analysis process)
 - Use Canva for project planning (including project timeline on Gantt Chart)
 - Use Databricks (SQL) for Data Processing
-- Use Microsoft Excel for data visualisation
+- Use Microsoft Excel for data visualisation and dashboard creation
 - Use Microsoft PowerPoint or CANVA for presentation
 
 ## Summary of results
 - The revenue increases from approximately R2300 in January, to approximately R6400 in June, this is a 50% increase in revenue over 6 months.
 - The revenue increases in the month of June across all 3 stores, as compared to January.
-- Hell’s Kitchen store generates the highest revenue across all months, compared to other 2 stores.
+- Hell’s Kitchen store generates the highest revenue across all months, while Lower Manhattan generates the lowest revenue.
 - The top 5 selling products in all stores are Coffee, Tea, Bakery, Drinking chocolate and Coffee beans. Coffee generates the highest revenue.
 - Across all months and in all stores Coffee generates the highest revenue, followed by Tea in second place, however Coffee beans have the lowest revenue.
 - Low spend customers contribute 95% of the revenue in all stores, so most of the business’s revenue depends on the low spend bucket.
