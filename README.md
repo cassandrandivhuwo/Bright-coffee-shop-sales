@@ -34,7 +34,7 @@ In order to achieve the aim, the following objectives must be met:
 - Slight price increase for top selling products like Coffee and Tea in Hell’s Kitchen.
 - Introduce discounts or loyalty programmes in low revenue generating stores like Astoria and Lower Manhattan.
 - To increase weekend revenue have weekend breakfast or lunch combos, family specials and buy 2 get 1 free on Saturday and Sunday only.
--Stock more of the top selling products in each store.
+- Stock more of the top selling products in each store.
 - Introduce combo deals at discounted prices, e.g. Coffee plus bakery combo, or Tea and Coffee beans combo (i.e. combine products with high revenue and products with low revenue).
 - Create evening specials to improve night sales in all stores.
 - Create afternoon specific combos to target lunch time and improve afternoon revenue in all store.
