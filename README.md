@@ -30,9 +30,9 @@ In order to achieve the aim, the following objectives must be met:
 - Night is when most sales drop in all stores.
 
 ##Recommendations
-- Have product promotions in high revenue generating stores like Hell’s Kitchen
+- Create loyalty or rewards programmes in high revenue generating stores like Hell’s Kitchen
 - Slight price increase for top selling products like Coffee and Tea in Hell’s Kitchen.
-- Introduce discounts or loyalty programmes in low revenue generating stores like Astoria and Lower Manhattan.
+- Create discounts in low revenue generating stores like Astoria and Lower Manhattan.
 - To increase weekend revenue have weekend breakfast or lunch combos, family specials and buy 2 get 1 free on Saturday and Sunday only.
 - Stock more of the top selling products in each store.
 - Introduce combo deals at discounted prices, e.g. Coffee plus bakery combo, or Tea and Coffee beans combo (i.e. combine products with high revenue and products with low revenue).
