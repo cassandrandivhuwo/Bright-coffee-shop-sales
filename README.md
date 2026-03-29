@@ -1,4 +1,4 @@
-# Bright-coffe-shop-sales
+# Bright-Coffee-Shop-Sales
 Analysis for Bright coffee shop sales, to understand sales over the last 6 months.
 
 ###Problem statement
