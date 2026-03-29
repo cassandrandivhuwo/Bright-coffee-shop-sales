@@ -1,7 +1,7 @@
 # Bright-Coffee-Shop-Sales
 Analysis for Bright coffee shop sales, to understand sales over the last 6 months.
 
-###Problem statement
+### Problem statement
 The CEO wants to grow the company's revenue and improve product performance. I am tasked to do diagnostics analysis of the 6 months historical data, in-order to understand the fluctuation in revenue.
 
 ### Aim
