@@ -10,8 +10,8 @@ The aim of this project is to provide detailed insights from the historical data
 ### Objectives
 In order to achieve the aim, the following objectives must be met:
 
-- Use Miro for project planning (including data inspection and analysis process)
-- Use Canva for project planning (including project timeline on Gantt Chart)
+- Use Miro for project planning (data inspection and analysis process)
+- Use Canva for project planning (project timeline on Gantt Chart)
 - Use Databricks (SQL) for Data Processing
 - Use Microsoft Excel for data visualisation and dashboard creation
 - Use Microsoft PowerPoint or CANVA for presentation
