@@ -16,7 +16,7 @@ In order to achieve the aim, the following objectives must be met:
 - Use Microsoft Excel for data visualisation and dashboard creation
 - Use Microsoft PowerPoint or CANVA for presentation
 
-## Summary of results
+### Summary of results
 - The revenue increases from approximately R2300 in January, to approximately R6400 in June, this is a 50% increase in revenue over 6 months.
 - The revenue increases in the month of June across all 3 stores, as compared to January.
 - Hell’s Kitchen store generates the highest revenue across all months, while Lower Manhattan generates the lowest revenue.
@@ -29,7 +29,7 @@ In order to achieve the aim, the following objectives must be met:
 - Mid-Morning is the peak hour in all stores.
 - Night is when most sales drop in all stores.
 
-##Recommendations
+### Recommendations
 - Create loyalty or rewards programmes in high revenue generating stores like Hell’s Kitchen
 - Slight price increase for top selling products like Coffee and Tea in Hell’s Kitchen.
 - Create discounts in low revenue generating stores like Astoria and Lower Manhattan.
