@@ -32,6 +32,6 @@ In order to achieve the aim, the following objectives must be met:
 - Stock more of the top 5 selling products across all locations.
 
 ### Bottom line
-- The business has strong growth momentum, but revenue is heavily concentrated in one store, one customer segment, and specific time windows, the recommendations aim to diversify and spread that performance more evenly.
+- The business has been growing over the last 6 months, but revenue is heavily concentrated in one store, one customer segment, and specific time windows, the recommendations aim to diversify and spread that performance more evenly.
 
 
