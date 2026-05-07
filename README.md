@@ -18,7 +18,7 @@ In order to achieve the aim, the following objectives must be met:
 
 ### Summary of results
 - Revenue grew significantly from approximately R2,300 in January to approximately R6,400 in June (a 50% increase).
-- Hell's Kitchen is the top-performing store; Lower Manhattan is the weakest.
+- Hell's Kitchen (revenue of R56,957) is the top-performing store; Lower Manhattan (revenue of R54 445) is the weakest.
 - The top revenue drivers are Coffee, Tea, and Bakery, with Coffee leading consistently.
 - Low-spend customers account for 95% of all revenue.
 - Weekdays generate roughly 80% of total sales.
@@ -33,13 +33,5 @@ In order to achieve the aim, the following objectives must be met:
 
 ### Bottom line
 - The business has strong growth momentum, but revenue is heavily concentrated in one store, one customer segment, and specific time windows, the recommendations aim to diversify and spread that performance more evenly.
-
-
-
-
-
-
-
-
 
 
